@@ -1,7 +1,7 @@
 
 from re import T
 from importlib_metadata import distribution
-import streamlit as st 
+import streamlit as st
 import plotly.express as px
 import pandas as pd
 import seaborn as sns
